@@ -23,4 +23,4 @@ yarn start
 
 This will start the application and open it in your default web browser. If the application doesn't open automatically, you can open your web browser and navigate to [http://localhost:3000/](http://localhost:3000/) to view the application.
 
-That's it! You're now ready to start using the application.
+That's it! You're now ready to play tic tac toe.

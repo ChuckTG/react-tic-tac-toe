@@ -1,9 +1,3 @@
-Sure, here's an example README.md file that provides instructions for installing dependencies and running the application using `yarn`:
-
-# My Awesome Tic Tac Toe
-
-This is my awesome application that does amazing things.
-
 ## Installation
 
 To install the dependencies for this application, you'll need to have Node.js and Yarn installed on your system. If you don't have them already, you can download and install them from the official websites:

@@ -1,6 +1,6 @@
 Sure, here's an example README.md file that provides instructions for installing dependencies and running the application using `yarn`:
 
-# My Awesome Application
+# My Awesome Tic Tac Toe
 
 This is my awesome application that does amazing things.
 
